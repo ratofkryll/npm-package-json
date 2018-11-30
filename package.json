@@ -1,0 +1,17 @@
+{
+  "name": "packageinstallassignment",
+  "version": "1.0.0",
+  "description": "'Lighthouse package assignment.;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lighthouse"
+  ],
+  "author": "grheumer",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
